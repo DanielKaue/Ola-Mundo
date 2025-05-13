@@ -1,2 +1,2 @@
 # Olá Mundo
-Primeiro repositório do urso git e github
+Primeiro repositório do curso git e github
