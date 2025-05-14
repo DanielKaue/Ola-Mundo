@@ -1,0 +1,63 @@
+body{margin:0;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #ccc;}
+.hero{background-image: url(imagens/bg-3.jpg);
+background-size: cover;
+padding: 5%;
+background-position: right center;}
+.hero-content{margin: 50px auto 0 ;
+width: 80%;
+text-align: center;
+color: white;
+text-transform: uppercase;}
+.hero-content h1{font-size: 56px;
+color: white;
+text-shadow: 5px 5px 5px black;}
+
+.hero-content p{background-color: rgba(0,0,0, 0.7);
+font-size: 18px;
+display: inline-block;
+padding: 10px;
+border-bottom: 2px solid;}
+.hero nav ul{margin: 20px 50px 0px 0px;
+text-align: right;}
+.hero nav li{display: inline-block;
+list-style: none;
+margin-left: 25px;}
+.hero nav a{background-color: rgba(0,0,0, 0.7);
+text-decoration: none;
+color: rgb(255, 255, 255);
+padding: 15px;
+border: 3px solid white;
+display: block;
+text-transform: uppercase;
+font-size: small;
+letter-spacing: 3px;}
+.hero nav a:hover{background-color: rgba(0,0,0, 0.5);}
+article{background-color: white;
+text-align: left;
+padding-left: px ;
+display: inline-block;
+margin-bottom: 32px;
+margin-top: 32px;}
+article h2{background-color: rgb(173, 173, 173);
+margin-top: 0px;
+padding: 10px;
+border-bottom: 2px solid black;}
+section{padding: 0px 25px 0px 25px;}
+main{padding: 50px;}
+footer{background-color: rgba(0,0,0, 0.7);
+color: white;
+text-transform: uppercase;
+padding: 5px;
+border-bottom: 2px solid black ;
+text-align: center;
+text-shadow: 3px 3px 3px black;}
+article p{padding: 0px 16px 0px 16px;
+font-family: fantasy;}
+article a.btn{background-color: rgba(121, 121, 121, 0.5);
+display:inline-block ;
+padding: 12px;
+margin: 2px 0px 5px 16px;
+border-radius: 6px;}
+article header{padding: 16px 16px 3px 16px;}
